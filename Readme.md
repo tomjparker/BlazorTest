@@ -1,0 +1,1 @@
+dotnet new blazor -n BlazorDemo.Web --interactivity Server
